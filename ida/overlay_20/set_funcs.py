@@ -1,0 +1,8 @@
+del_items(0x80100004)
+SetType(0x80100004, "void Em13f(struct _74fake *pEm)")
+del_items(0x80100054)
+SetType(0x80100054, "void Em3f_init(struct _74fake *pEm)")
+del_items(0x801000DC)
+SetType(0x801000DC, "void Em3f_main(struct _74fake *pEm)")
+del_items(0x8010029C)
+SetType(0x8010029C, "void Em3f_wait(struct _74fake *pEm)")

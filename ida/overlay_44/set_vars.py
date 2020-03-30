@@ -1,0 +1,6 @@
+del_items(0x8011A054)
+SetType(0x8011A054, "unsigned short Bs_size4[16][17]")
+del_items(0x8011A274)
+SetType(0x8011A274, "unsigned char Bs_check_sum4[16][17]")
+del_items(0x8011A384)
+SetType(0x8011A384, "unsigned short Xa_sector04[3][41]")

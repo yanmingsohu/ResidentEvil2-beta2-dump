@@ -1,0 +1,6 @@
+del_items(0x800B6D48)
+SetType(0x800B6D48, "struct _107fake Trans")
+del_items(0x8009DEB0)
+SetType(0x8009DEB0, "unsigned long Poly_ft4_count")
+del_items(0x800BE550)
+SetType(0x800BE550, "struct _6fake V_str")

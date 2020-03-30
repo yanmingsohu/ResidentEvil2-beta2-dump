@@ -1,0 +1,6 @@
+del_items(0x8010D004)
+SetType(0x8010D004, "void Em22c(struct _74fake *pEm)")
+del_items(0x8010D064)
+SetType(0x8010D064, "void Em2c_Init(struct _74fake *pEm, unsigned long Kan, unsigned long Seq)")
+del_items(0x8010D0C8)
+SetType(0x8010D0C8, "void Em2c_Move(struct _74fake *pEm, unsigned long Kan, unsigned long Seq)")
