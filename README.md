@@ -7,7 +7,7 @@ Debug symbol dump created from playstation1 game CD.
 * CPP header
 
 
-## use for IDA
+## Use for IDA
 
 Run `python2 marge.py` -> Generate file 'all.py'
 
@@ -25,3 +25,9 @@ Run IDA -> Decompile 'PSX.EXE'
 ## Dump Tool
 
 * see https://github.com/sanctuary/sym
+
+
+Ignored errors:
+
+1. "support for symbol type *sym.EndSLD not yet implemented"
+2. "unable to locate overlay with ID 0"
