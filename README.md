@@ -29,5 +29,5 @@ Run IDA -> Decompile 'PSX.EXE'
 
 Ignored errors:
 
-1. "support for symbol type *sym.EndSLD not yet implemented"
+1. "unsupport for symbol type *sym.EndSLD not yet implemented"
 2. "unable to locate overlay with ID 0"
