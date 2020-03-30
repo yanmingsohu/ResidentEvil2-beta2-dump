@@ -1,15 +1,27 @@
 # Resident Evil 2 - beta2 dump
 
+Debug symbol dump created from playstation1 game CD.
+
+
 * IDA symbol python script
 * CPP header
 
 
+## use for IDA
+
+Run `python2 marge.py` -> Generate file 'all.py'
+
+Run IDA -> Decompile 'PSX.EXE' 
+        -> File -> Script File... 
+        -> Select 'all.py'
+
+
 ## MD5
 
-PSX.EXE: feb64f3a4ad8651b367f6e257bdf707f
-MAIN.SYM: 3bee1fa8604738f1122d40827a54fffe
+* PSX.EXE: feb64f3a4ad8651b367f6e257bdf707f
+* MAIN.SYM: 3bee1fa8604738f1122d40827a54fffe
 
 
-## sym_dump
+## Dump Tool
 
-https://github.com/sanctuary/sym
+* see https://github.com/sanctuary/sym
