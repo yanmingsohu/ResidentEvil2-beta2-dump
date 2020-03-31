@@ -25,9 +25,3 @@ Run IDA -> Decompile 'PSX.EXE'
 ## Dump Tool
 
 * see https://github.com/sanctuary/sym
-
-
-Ignored errors:
-
-1. "unsupport for symbol type *sym.EndSLD not yet implemented"
-2. "unable to locate overlay with ID 0"
